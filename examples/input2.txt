@@ -1,0 +1,7 @@
+m 50
+n 50
+v2 2
+v1 2
+time-unit-ms 5
+output-file out.txt
+solution 1

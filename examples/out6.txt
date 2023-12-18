@@ -1,0 +1,107 @@
+Gardener 1: cultivating 0 0
+Gardener 2: 4 4 is impossible to cultivate
+Gardener 2: moving on
+Gardener 2: 3 4 is impossible to cultivate
+Gardener 1: moving on
+Gardener 2: moving on
+Gardener 2: 2 4 is impossible to cultivate
+Gardener 1: 0 1 is impossible to cultivate
+Gardener 2: moving on
+Gardener 1: moving on
+Gardener 1: cultivating 0 2
+Gardener 2: cultivating 1 4
+Gardener 1: moving on
+Gardener 1: cultivating 0 3
+Gardener 1: moving on
+Gardener 1: 0 4 is impossible to cultivate
+Gardener 1: moving on
+Gardener 1: another gardener encountered at 1 4
+Gardener 2: moving on
+Gardener 2: another gardener encountered at 0 4
+Guard: confrontation spotted - Gardener 1 at 0 4, Gardener 2 at 1 4. Resolving
+Gardener 1: 1 4 already cultivated
+Gardener 2: 0 4 is impossible to cultivate
+Gardener 1: moving on
+Gardener 2: moving on
+Gardener 1: cultivating 1 3
+Gardener 2: 0 3 already cultivated
+Gardener 2: moving on
+Gardener 2: another gardener encountered at 1 3
+Gardener 1: moving on
+Gardener 1: cultivating 1 2
+Gardener 2: 1 3 already cultivated
+Gardener 2: moving on
+Gardener 2: cultivating 2 3
+Gardener 1: moving on
+Gardener 1: cultivating 1 1
+Gardener 1: moving on
+Gardener 1: cultivating 1 0
+Gardener 1: moving on
+Gardener 1: cultivating 2 0
+Gardener 1: moving on
+Gardener 1: cultivating 2 1
+Gardener 1: moving on
+Gardener 1: cultivating 2 2
+Gardener 1: moving on
+Gardener 1: another gardener encountered at 2 3
+Gardener 2: moving on
+Gardener 2: cultivating 3 3
+Gardener 1: 2 3 already cultivated
+Gardener 1: moving on
+Gardener 1: 2 4 is impossible to cultivate
+Gardener 1: moving on
+Gardener 1: 3 4 is impossible to cultivate
+Gardener 1: moving on
+Gardener 1: another gardener encountered at 3 3
+Gardener 2: moving on
+Gardener 1: 3 3 already cultivated
+Gardener 2: 4 3 is impossible to cultivate
+Gardener 1: moving on
+Gardener 2: moving on
+Gardener 2: cultivating 4 2
+Gardener 1: cultivating 3 2
+Gardener 1: moving on
+Gardener 1: cultivating 3 1
+Gardener 1: moving on
+Gardener 1: cultivating 3 0
+Gardener 1: moving on
+Gardener 1: cultivating 4 0
+Gardener 1: moving on
+Gardener 1: 4 1 is impossible to cultivate
+Gardener 1: moving on
+Gardener 1: another gardener encountered at 4 2
+Gardener 2: moving on
+Gardener 1: 4 2 already cultivated
+Gardener 2: 3 2 already cultivated
+Gardener 1: moving on
+Gardener 2: moving on
+Gardener 2: 2 2 already cultivated
+Gardener 1: 4 3 is impossible to cultivate
+Gardener 2: moving on
+Gardener 1: moving on
+Gardener 1: 4 4 is impossible to cultivate
+Gardener 2: 1 2 already cultivated
+Gardener 1: moving on
+Gardener 2: moving on
+Gardener 2: 0 2 already cultivated
+Gardener 2: moving on
+Gardener 2: 0 1 is impossible to cultivate
+Gardener 2: moving on
+Gardener 2: 1 1 already cultivated
+Gardener 2: moving on
+Gardener 2: 2 1 already cultivated
+Gardener 2: moving on
+Gardener 2: 3 1 already cultivated
+Gardener 2: moving on
+Gardener 2: 4 1 is impossible to cultivate
+Gardener 2: moving on
+Gardener 2: 4 0 already cultivated
+Gardener 2: moving on
+Gardener 2: 3 0 already cultivated
+Gardener 2: moving on
+Gardener 2: 2 0 already cultivated
+Gardener 2: moving on
+Gardener 2: 1 0 already cultivated
+Gardener 2: moving on
+Gardener 2: 0 0 already cultivated
+Gardener 2: moving on
